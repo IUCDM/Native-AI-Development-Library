@@ -6,3 +6,8 @@ AddType text/plain;charset=utf-8 .md
 AddType text/plain;charset=utf-8 .txt .cff
 # Keep repository internals out of view
 RedirectMatch 404 /\.git
+
+# Keep edge/CDN caches short so pulls go live within minutes
+<IfModule mod_headers.c>
+  Header set Cache-Control "max-age=300, must-revalidate"
+</IfModule>
