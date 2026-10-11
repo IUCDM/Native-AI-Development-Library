@@ -49,6 +49,15 @@ footer { font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.12em; te
 footer a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px solid var(--line); }
 footer a:hover, footer a:focus-visible { color: var(--accent); }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.back { display: inline-flex; align-items: center; gap: 8px; font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; padding: 8px 12px; margin-left: -12px; border-radius: 6px; }
+.back:hover, .back:focus-visible { color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.pager { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.pager a { display: grid; gap: 4px; padding: 16px 18px; border: 1px solid var(--line); border-radius: 12px; text-decoration: none; color: var(--ink); min-width: 0; }
+.pager a:hover, .pager a:focus-visible { border-color: var(--accent); }
+.pager span { font-family: var(--mono); font-size: 0.66rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faint); }
+.pager b { font-family: var(--display); font-weight: 600; font-size: 1.25rem; }
+.pager .next { text-align: right; grid-column: 2; }
+@media (max-width: 560px) { .pager { grid-template-columns: 1fr; } .pager .next { grid-column: 1; } }
 </style>
 <style>
 /* Layout: one forced chain down the page. The argument from one as a descending chain, the five rings as concentric circles beside the two editions, then the Lens's seven-step gait as an instrument panel. */
@@ -105,6 +114,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 <div class="wrap">
 
   <header>
+    <a class="back" href="index.html">← Native AI Development Library</a>
     <div class="eyebrow">Native AI Development Library · Step 04 of the path</div>
     <h1>The Spiral <em>Morphology</em></h1>
     <p class="lede">The formal account underneath the whole library: a generative morphology of relational genesis. Relations are primary, objects are stabilized readings of relations, and <strong>every claim carries a load rating</strong> naming the kind of warrant it holds. In the Spiral of Radiance's numbering it is framework 23.</p>
@@ -196,6 +206,11 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   </section>
 
   <p class="cite">Woffinden, A. (2026). <em>The Spiral Morphology</em> (Seed and Cathedral Editions, v6.4). Zenodo. <a href="https://doi.org/10.5281/zenodo.21983931">doi.org/10.5281/zenodo.21983931</a></p>
+
+    <nav class="pager" aria-label="Other overviews">
+    <a href="spiral-of-radiance.html"><span>← Previous</span><b>The Spiral of Radiance</b></a>
+    <a class="next" href="lampwright-arc.html"><span>Next →</span><b>The Lampwright Arc</b></a>
+  </nav>
 
   <footer>
     <a href="index.html">Native AI Development Library</a>

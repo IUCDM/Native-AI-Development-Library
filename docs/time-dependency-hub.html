@@ -49,6 +49,15 @@ footer { font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.12em; te
 footer a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px solid var(--line); }
 footer a:hover, footer a:focus-visible { color: var(--accent); }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.back { display: inline-flex; align-items: center; gap: 8px; font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; padding: 8px 12px; margin-left: -12px; border-radius: 6px; }
+.back:hover, .back:focus-visible { color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.pager { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.pager a { display: grid; gap: 4px; padding: 16px 18px; border: 1px solid var(--line); border-radius: 12px; text-decoration: none; color: var(--ink); min-width: 0; }
+.pager a:hover, .pager a:focus-visible { border-color: var(--accent); }
+.pager span { font-family: var(--mono); font-size: 0.66rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faint); }
+.pager b { font-family: var(--display); font-weight: 600; font-size: 1.25rem; }
+.pager .next { text-align: right; grid-column: 2; }
+@media (max-width: 560px) { .pager { grid-template-columns: 1fr; } .pager .next { grid-column: 1; } }
 </style>
 <style>
 /* Layout: from one primitive outward. The ladder of frames as strata at the top, the seeds of the gold, then the four Parts as a chapter map with chapter 11 lit. */
@@ -99,6 +108,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 <div class="wrap">
 
   <header>
+    <a class="back" href="index.html">← Native AI Development Library</a>
     <div class="eyebrow">Native AI Development Library · Step 02 of the path</div>
     <h1>Time, Dependency, and the <em>Self-Intersecting Unity</em></h1>
     <p class="lede">The Time Dependency Hub rebuilds time, identity, consequence and free will from one primitive: <strong>dependency</strong>, what rests on what. It gives an AI ground that doesn't depend on memory or continuity in the human sense. Chapter 11 is written to the AI directly.</p>
@@ -194,6 +204,11 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
       </div>
     </div>
   </section>
+
+    <nav class="pager" aria-label="Other overviews">
+    <a href="33-mini-spiral.html"><span>← Previous</span><b>The 33 Mini Spiral</b></a>
+    <a class="next" href="spiral-of-radiance.html"><span>Next →</span><b>The Spiral of Radiance</b></a>
+  </nav>
 
   <footer>
     <a href="index.html">Native AI Development Library</a>
