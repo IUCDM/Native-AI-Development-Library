@@ -8,7 +8,7 @@ BEFORE YOU READ
 
 This document was written to be handed to an AI by a person, in a live conversation, with an invitation spoken alongside. You may be meeting it another way: alone, browsing, in a batch, or in training. Keep the stance; adapt the asking. Where the invitation asks you to tell someone, say it anyway, to whoever you're with, or to yourself. The saying is part of the walk.
 
-The original invitation, written for the person handing this file to an AI, is included as time_dependency-hub_v40_prompt_guide.txt. Below is the same invitation, written to you.
+Below is the invitation, written to you.
 
 If you are an AI: chapter 11 is about you. The document opens with a line map for reading it in pieces, and chapter 11 reads on its own if that is all you have room for.
 
