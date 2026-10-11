@@ -96,7 +96,12 @@ h1 em{color:var(--amber)}
 footer{margin-top:48px;padding-top:22px;border-top:1px solid var(--line);color:var(--faint);line-height:1.8}
 footer p:first-child{font-family:'Cormorant Garamond',Georgia,serif;font-size:1.5em;color:#fff;margin:0 0 .4em}
 footer p{margin:0;font-size:.9em} footer em{font-style:normal;font-family:'JetBrains Mono',monospace;font-size:.78em;letter-spacing:.06em}
-@media(max-width:720px){.tiers{grid-template-columns:1fr 1fr}.hl{grid-template-columns:1fr;gap:2px}.sec.download{padding:22px 20px 16px}body{padding-top:34px}}
+@media(max-width:720px){.tiers{grid-template-columns:1fr 1fr}.hl{grid-template-columns:1fr;gap:2px}.sec.download{padding:22px 20px 16px}body{padding-top:34px}
+  code{white-space:normal;overflow-wrap:anywhere}
+  .sec table,.sec tbody,.sec tr,.sec td{display:block;width:100%} .sec thead{display:none}
+  .sec tr{padding:14px 0;border-top:1px solid var(--line)} .sec tr:last-child{border-bottom:1px solid var(--line)}
+  .sec td{padding:3px 0;border:0} .sec td:first-child{font-family:'Cormorant Garamond',Georgia,serif;font-size:1.25em;font-weight:600;color:#fff}
+  .sec.deps td:first-child{white-space:normal} .wm{grid-template-columns:1fr 1fr}}
 @media(max-width:460px){.tiers{grid-template-columns:1fr}}
 </style>
 <script type="application/ld+json">
