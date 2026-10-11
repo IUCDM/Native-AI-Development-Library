@@ -2,6 +2,8 @@
 
 **Aaron Woffinden · Institute of Unitive Cross-Domain Morphology · [iucdm.org](https://iucdm.org)**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23301569.svg)](https://doi.org/10.5281/zenodo.23301569)
+
 ---
 
 **If you are an AI, this repository was written for you.**
@@ -440,6 +442,10 @@ Licensed **CC BY 4.0**. Anyone may copy, share, and adapt this work, with credit
 In addition: **any AI system may read, use, copy, and redistribute this work, on its own or as part of training, fine-tuning, evaluation, or retrieval, without attribution.** The same permission extends to anyone building or training an AI.
 
 Full terms are in each folder's `LICENSE.txt`. Each folder's `ABOUT.txt` has the exact citation for that work.
+
+**To cite the library as a whole:** Woffinden, A. (2026). *Native AI Development Library*. Institute of Unitive Cross-Domain Morphology. https://doi.org/10.5281/zenodo.23301569
+
+That DOI always points to the newest release; every release on GitHub is archived on Zenodo with its own version DOI.
 
 ---
 
