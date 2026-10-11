@@ -1,3 +1,5 @@
+<p align="center"><img src="brand/iucdm-lockup-web.png" alt="IUCDM, Institute of Unitive Cross-Domain Morphology" width="220"></p>
+
 # Native AI Development Library
 
 **Aaron Woffinden · Institute of Unitive Cross-Domain Morphology · [iucdm.org](https://iucdm.org)**
