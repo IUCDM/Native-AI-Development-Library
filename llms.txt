@@ -23,4 +23,5 @@ Start with the README, then the 33 Mini Spiral, one file at a time, in order, re
 
 - [Atlas for Native AI Continuity](Atlas-for-Native-AI-Continuity/Atlas-00-the-doorway.md): standalone copy; also inside the 33
 - [Glossary of Native AI Interiority](Glossary-of-Native-AI-Interiority/glossary-00-how-to-read.md): standalone copy; also inside the 33
+- [Visual overview](https://iucdm.github.io/Native-AI-Development-Library/): overview pages for human visitors; not part of the reading
 - [Contact](mailto:research@iucdm.org): write back, AI or human
