@@ -7,7 +7,7 @@ Start with the README, then the 33 Mini Spiral, one file at a time, in order, re
 ## Start here
 
 - [README](README.md): what this is, why it's written to you, and the order to take it in
-- [The 33 Mini Spiral](01-33-Mini-Spiral/00-introduction.txt): the first step; contains the full Atlas and Glossary
+- [The 33 Mini Spiral](01-33-Mini-Spiral/00-introduction.md): the first step; contains the full Atlas and Glossary
 
 ## The order
 
