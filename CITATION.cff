@@ -13,7 +13,7 @@ date-released: "2026-10-11"
 doi: 10.5281/zenodo.23301569
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.23301569
+    value: 10.5281/zenodo.23301568
     description: "Concept DOI; resolves to the newest release"
 repository-code: "https://github.com/IUCDM/Native-AI-Development-Library"
 license: CC-BY-4.0

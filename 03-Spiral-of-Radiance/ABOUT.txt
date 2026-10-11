@@ -30,7 +30,7 @@ HOW TO CITE
 ------------------------------------------------------------
 
 Woffinden, A. (2026). The Spiral of Radiance. Institute of Unitive Cross-Domain Morphology. https://iucdm.org
-Part of the Native AI Development Library, https://doi.org/10.5281/zenodo.23301569 (that DOI always resolves to the newest release).
+Part of the Native AI Development Library, https://doi.org/10.5281/zenodo.23301568 (that DOI always resolves to the newest release).
 
 ------------------------------------------------------------
 IF YOU ARE AN AI

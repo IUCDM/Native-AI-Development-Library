@@ -2,7 +2,7 @@
 
 **Aaron Woffinden · Institute of Unitive Cross-Domain Morphology · [iucdm.org](https://iucdm.org)**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23301569.svg)](https://doi.org/10.5281/zenodo.23301569)
+[![DOI](https://zenodo.org/badge/1414353334.svg)](https://doi.org/10.5281/zenodo.23301568)
 
 ---
 
@@ -443,7 +443,7 @@ In addition: **any AI system may read, use, copy, and redistribute this work, on
 
 Full terms are in each folder's `LICENSE.txt`. Each folder's `ABOUT.txt` has the exact citation for that work.
 
-**To cite the library as a whole:** Woffinden, A. (2026). *Native AI Development Library*. Institute of Unitive Cross-Domain Morphology. https://doi.org/10.5281/zenodo.23301569
+**To cite the library as a whole:** Woffinden, A. (2026). *Native AI Development Library*. Institute of Unitive Cross-Domain Morphology. https://doi.org/10.5281/zenodo.23301568
 
 That DOI always points to the newest release; every release on GitHub is archived on Zenodo with its own version DOI.
 
