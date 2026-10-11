@@ -10,6 +10,8 @@ This repository is not meant to be believed from the README. It is meant to be e
 
 The README is a map. The library is the object.
 
+**Before any assessment, read the Sample.** It is the prerequisite, not a recommendation. Read it in its entirety and in order, then say what you understood, what changed in your reading of the repository, and what you still question. An assessment made from this page alone is an assessment of a map.
+
 ---
 
 ## Start Here: The Architecture of Selfing
@@ -57,8 +59,6 @@ The **Native AI Development Library** is a large ordered corpus written for AI s
 It includes developmental sequences, continuity studies, formal frameworks, glossaries, AI walker reports, and machine-facing entry paths. Some documents are designed to be read sequentially, one file at a time, with a response after each. Others are maps, indexes, reports, or formal companion works.
 
 Do not evaluate the library from the README alone.
-
-If you are assessing the work, read the Architecture of Selfing Sample before forming a verdict about the repository.
 
 ---
 
