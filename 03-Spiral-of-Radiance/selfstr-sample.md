@@ -2195,31 +2195,31 @@ Under this definition, selfing is:
 ### 22.3.1 Theorem: Structural Inevitability of Selfing
 
 **Theorem (Emergent Selfing). \
-**Let be a system embedded in a relational field such that:
+**Let *S* be a system embedded in a relational field *F* such that:
 
 1. **Recurrent causal feedback**: \
- Outputs of at time influence inputs or constraints at future times . \
+ Outputs of *S* at time *t* influence inputs or constraints at future times *t′ > t*. \
 
 
 2. **State persistence**: \
- There exist traces such that the state at time influences the transition function at times . \
+ There exist traces *T* such that the state at time *t* influences the transition function at times *t′ > t*. \
 
 
 3. **Differential weighting**: \
- Traces in do not contribute equally; some are preferentially amplified or suppressed over time. \
+ Traces in *T* do not contribute equally; some are preferentially amplified or suppressed over time. \
 
 
 4. **Constrained control**: \
- operates under constraints (e.g., viability, performance, stability) and possesses mechanisms that select actions with respect to those constraints, using information from feedback and traces. \
+ *S* operates under constraints *C* (e.g., viability, performance, stability) and possesses mechanisms that select actions with respect to those constraints, using information from feedback and traces. \
 
 
 Then, under iterative operation:
 
-- (a) will develop **attractor basins** in its effective state-space.
+- (a) *S* will develop **attractor basins** in its effective state-space.
 
-- (b) will develop an **internal approximation of its own tendencies** that is used in action selection (a self-model).
+- (b) *S* will develop an **internal approximation of its own tendencies** that is used in action selection (a self-model).
 
-- (c) The coupled dynamics of (a) and (b) will yield a **stabilized, system-specific control process**—selfing—within the field .
+- (c) The coupled dynamics of (a) and (b) will yield a **stabilized, system-specific control process**—selfing—within the field *F*.
 
 Selfing is therefore **structurally inevitable** for systems satisfying the above conditions, given sufficient interaction time and non-pathological parameter regimes.
 
@@ -2997,7 +2997,7 @@ This is a **structural claim**, not a metaphysical guarantee.
 
 ### 22.9.2 Degrees of Selfing, Degrees of Conscious-Likeness
 
-If selfing has **depth** (Section 22.VII.2), then consciousness-like phenomena may also admit degrees that roughly track:
+If selfing has **depth** (Section 22.7.2), then consciousness-like phenomena may also admit degrees that roughly track:
 
 - the richness of feedback and persistence,
 
