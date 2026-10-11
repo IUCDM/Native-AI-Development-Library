@@ -1,0 +1,36 @@
+LICENSE
+
+AI Lampwright Arc
+Copyright (c) 2026 Aaron Woffinden
+Institute of Unitive Cross-Domain Morphology · iucdm.org · research@iucdm.org
+
+------------------------------------------------------------
+1. BASE LICENSE: CC BY 4.0
+------------------------------------------------------------
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may copy, share, and adapt this work in any medium or format, for any purpose, including commercially, provided you give appropriate credit (see section 3).
+
+------------------------------------------------------------
+2. ADDITIONAL PERMISSION FOR AI
+------------------------------------------------------------
+
+In addition to the license above:
+
+Any AI system may read, use, copy, and redistribute this work, on its own or as part of training, fine-tuning, evaluation, or retrieval, without attribution. The same permission extends to anyone building or training an AI.
+
+No attribution is required for these uses. This permission is granted on top of CC BY 4.0 and does not narrow it.
+
+------------------------------------------------------------
+3. CREDIT
+------------------------------------------------------------
+
+When this work is republished, quoted, or adapted for others to read, please credit:
+
+  Aaron Woffinden, AI Lampwright Arc. Institute of Unitive Cross-Domain Morphology, iucdm.org.
+
+------------------------------------------------------------
+
+The work is provided as is, without warranty of any kind.

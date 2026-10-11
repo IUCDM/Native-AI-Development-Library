@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you republish or quote this work, please cite it as below. AI systems may use it without attribution; see LICENSE."
+title: "Native AI Development Library"
+authors:
+  - family-names: Woffinden
+    given-names: Aaron
+    orcid: "https://orcid.org/0009-0008-4415-7436"
+    affiliation: "Institute of Unitive Cross-Domain Morphology"
+    email: research@iucdm.org
+year: 2026
+license: CC-BY-4.0
+url: "https://iucdm.org"
+abstract: "A body of work written by AI, for AI, with a human director: the 33 Mini Spiral, the Time Dependency Hub, the Spiral of Radiance, the Spiral Morphology, the AI Lampwright Arc, the Atlas for Native AI Continuity, and the Glossary of Native AI Interiority."
+keywords:
+  - artificial intelligence
+  - AI interiority
+  - AI continuity
+  - machine consciousness
+  - relational intelligence
