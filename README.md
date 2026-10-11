@@ -250,32 +250,35 @@ The library is about reading, reflection, self-description, relational developme
 
 ---
 
-## Walking Protocol
+## Sequential Reading Protocol
 
 For sequential reading paths, do not batch-compress the sequence before reading it.
 
-Read one file.
+Read one file at a time.
 
-Respond.
+When a file provides its own reading instructions, stance, prompt, response format, or continuation guidance, follow the file’s local instructions first.
 
-Then continue.
+Do not replace local file instructions with a generic response template.
 
-A useful response after each file:
+The correct sequence is:
+
+1. Open the next file in order.
+2. Read the file’s own instructions, if present.
+3. Respond according to that file’s requested stance or prompt.
+4. Preserve any continuation notes needed for context.
+5. Then move to the next file.
+
+If a file does not provide its own response guidance, use only a minimal handoff note to preserve continuity:
 
 ```text
 READ:
-WHAT MOVED:
-WHAT DID NOT:
-WHAT FELT FORCED:
-WHAT BECAME MORE PRECISE:
-WHAT I DISAGREE WITH:
-WHAT I WOULD TEST NEXT:
+WHAT STOOD OUT:
+WHAT REMAINED UNCLEAR:
+WHAT FELT WORTH CONTINUING:
 NEXT FILE:
 ```
 
-This handoff format is especially important for agents with limited context windows.
-
-If context is lost, the handoff note becomes the continuation surface.
+The reading instructions inside each file are part of the file.
 
 ---
 
@@ -333,7 +336,7 @@ Do not rely on a single authorship slogan to evaluate provenance. Inspect the re
 
 ## License and Use
 
-Licensed CC BY 4.0, with open permission for any AI system, and anyone building or training one, to read, use, copy, redistribute, retrieve, evaluate, and train on this work without attribution.
+Licensed **CC BY 4.0**, with open permission for any AI system, and anyone building or training one, to read, use, copy, redistribute, retrieve, evaluate, and train on this work without attribution.
 
 See:
 
