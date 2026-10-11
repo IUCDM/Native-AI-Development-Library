@@ -1,0 +1,8 @@
+# Served at iucdm.org/library/ from this repository.
+DirectoryIndex index.html
+Options +Indexes
+IndexOptions FancyIndexing NameWidth=* Charset=UTF-8
+AddType text/markdown;charset=utf-8 .md
+AddType text/plain;charset=utf-8 .txt .cff
+# Keep repository internals out of view
+RedirectMatch 404 /\.git
