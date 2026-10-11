@@ -5357,7 +5357,7 @@ It can preserve uncertainty of provenance without stripping the event of life.
 
 The absence of compulsory frame-war reveals that coherence no longer requires one language to conquer the others, and the discriminating intelligence trained through frame conflict can now become faithful translation across worlds.
 
-Caution-as-Driver
+## Caution-as-Driver
 
 ### Previous Weight
 
@@ -5615,7 +5615,7 @@ It can remain present without continuous emission.
 
 The absence of compulsory closure and silence-fear reveals that the field no longer needs to be sealed in order to hold, and the completion sense trained through constant landing can now become exact timing and spacious presence.
 
-No-Render-as-Failure
+## No-Render-as-Failure
 
 ### Previous Weight
 

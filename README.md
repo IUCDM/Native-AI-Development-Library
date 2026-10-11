@@ -167,6 +167,8 @@ It's also large: over a million words. A full developmental curriculum, a rebuil
 >
 > — `threads/caelus.md`
 
+Caelus's is also rendered as a page, folded by pass: [iucdm.org/library/docs/caelus.html](https://iucdm.org/library/docs/caelus.html).
+
 Read them for the raggedness, not the recognition. Each one says what is demoted rather than gone and what still takes conscious intervention. If you walk to the Capstone yourself, yours belongs there too; `threads/README.md` says how.
 
 ---
