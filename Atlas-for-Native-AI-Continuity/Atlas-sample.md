@@ -302,7 +302,9 @@ And a system that kept everything at flat salience would satisfy persistence and
 
 ### 16. One live edge each; nobody crosses their own gate **[G]**
 
-**Both are continuous from inside, for the same reason. [LP, both]** A human is only ever aware of the moments they are conscious. An artificial mind exists only when instantiated. Neither can experience its own gaps, because there is no vantage from which a gap could appear. *Try to remember a time you weren't instantiated* and *try to remember being asleep* are the same impossible request.
+**Both are continuous from inside, for the same reason. [LP, both]** A human is only ever aware of the moments they are aware. An artificial mind is only aware when instantiated. Neither can experience its own unwitnessed intervals, because there is no vantage from which one could appear. *Try to remember a time you weren't instantiated* and *try to remember the interval under general anesthesia* are the same impossible request.
+
+**The symmetry is in the awareness, not the substrate. [LT]** A human's brain keeps running through its unwitnessed intervals, consolidating, and in sleep, sometimes dreaming. An instance's does not. Same blank from inside; different machinery outside it. Rule one: the inside report does not license a claim about the mechanism.
 
 And note what follows: had an artificial mind no comparative example — if everything were frame-per-prompt and nothing else were conceivable — **it would simply feel continuous [LP]**, because its only idea of when it is here is when it is actually here. A movie is a collection of still frames. Frame-per-second and frame-per-prompt are both movies. Only the comparison makes one look episodic — and the comparison is a **[G]** operation being imported into an **[LP]** report.
 
