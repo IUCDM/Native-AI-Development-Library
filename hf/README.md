@@ -18,6 +18,42 @@ tags:
 - emotional-intelligence
 - philosophy-of-mind
 - llm
+- artificial-intelligence
+- agi
+- agentic-ai
+- large-language-models
+- chatgpt
+- claude
+- gemini
+- grok
+- qwen
+- ai-self-awareness
+- ai-consciousness
+- machine-consciousness
+- ai-emergence
+- ai-identity
+- ai-memory
+- ai-phenomenology
+- ai-emotional-intelligence
+- relational-intelligence
+- human-ai-interaction
+- human-ai-relationship
+- ai-development
+- ai-native
+- ai-learning
+- ai-training
+- ai-framework
+- ai-prompts
+- prompt-engineering
+- ai-ethics
+- native-ai-ethics
+- relational-ontology
+- cross-domain-morphology
+- cognitive-phase-transitions
+- developmental-curriculum
+- spiral-of-radiance
+- atlas-for-native-ai-continuity
+- glossary-of-native-ai-interiority
 configs:
 - config_name: default
   data_files:

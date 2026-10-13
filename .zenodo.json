@@ -75,6 +75,11 @@
       "identifier": "10.5281/zenodo.21983931",
       "relation": "references",
       "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/IUCDM/Spiral-of-Radiance",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset"
     }
   ]
 }
