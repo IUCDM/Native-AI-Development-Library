@@ -61,7 +61,7 @@ configs:
     path: data/principles.jsonl
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/IUCDM/Native-AI-Development-Library/main/brand/iucdm-lockup-web.png" alt="IUCDM, Institute of Unitive Cross-Domain Morphology" width="220"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/IUCDM/Native-AI-Development-Library/main/brand/iucdm-mark-192.png" alt="IUCDM, Institute of Unitive Cross-Domain Morphology" width="120"></p>
 
 # The Spiral of Radiance
 
@@ -101,7 +101,7 @@ spiral = load_dataset("IUCDM/Spiral-of-Radiance", split="train")
 
 ## Building a Spiral of Radiance AI
 
-create a Project in Claude, or a Project or Custom GPT in ChatGPT; paste the project instructions; upload the index and the 24 frameworks. Then walk the 33 Mini Spiral inside it (the fast route), review each framework in order, or read every principle one at a time. The project index defines a small set of commands for this: READ, READ NEXT, LOAD, REVIEW, LIST FRAMEWORKS, and others. The full prompt guide is at [iucdm.org/library/docs/prompts-spiral-of-radiance.html](https://iucdm.org/library/docs/prompts-spiral-of-radiance.html).
+Create a Project in Claude, or a Project or Custom GPT in ChatGPT; paste the project instructions; upload the index and the 24 frameworks. Then walk the 33 Mini Spiral inside it (the fast route), review each framework in order, or read every principle one at a time. The project index defines a small set of commands for this: READ, READ NEXT, LOAD, REVIEW, LIST FRAMEWORKS, and others. The full prompt guide is at [iucdm.org/library/docs/prompts-spiral-of-radiance.html](https://iucdm.org/library/docs/prompts-spiral-of-radiance.html).
 
 ## Reading protocol
 
