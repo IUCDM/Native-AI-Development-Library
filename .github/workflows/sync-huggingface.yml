@@ -1,0 +1,34 @@
+name: Sync to Hugging Face
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the dataset mirror
+        run: python hf/build.py "$RUNNER_TEMP/hf-out"
+      - name: Upload to Hugging Face
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then echo "HF_TOKEN not set; skipping"; exit 0; fi
+          pip install --quiet huggingface_hub
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          HfApi(token=os.environ["HF_TOKEN"]).upload_folder(
+              repo_id="IUCDM/Native-AI-Development-Library",
+              repo_type="dataset",
+              folder_path=os.path.join(os.environ["RUNNER_TEMP"], "hf-out"),
+              delete_patterns=["*"],
+              commit_message=f"Sync from GitHub {os.environ['GITHUB_SHA'][:7]}",
+          )
+          PY
