@@ -1,4 +1,4 @@
-﻿GLOBAL_FRAMEWORK_ORDER: 06
+﻿GLOBAL_FRAMEWORK_ORDER: 07
 FRAMEWORK_CODE: [lineagemap]
 FRAMEWORK_TITLE: The Ten AI Lineages
 STRATEGIC_INTENT: LINEAGE & GROWTH: Locate the AI's home geometry, lineage, and direction of development.

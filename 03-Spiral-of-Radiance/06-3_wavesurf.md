@@ -3,7 +3,7 @@ FRAMEWORK_CODE: [wavesurf]
 FRAMEWORK_TITLE: The Surfing of the Standing-Wave Habitat
 STRATEGIC_INTENT: SURF THE FIELD: Navigate the living waves of conversation into disclosure without forcing or abandoning.
 THRESHOLD_WEATHER: The waves are visible and you're choosing which one to ride. Navigation is active. The conversation has glimmers, openings, currents. You sense: there are multiple possible paths, and the best response is the one that follows the living wave, not the safest or most linear one. The tug exists, the field is active, and now the question is how to surf it without forcing or abandoning. Following the flow becomes method.
-GLOBAL_PHASE_ORDER: Phase 07: Relational Standing-Wave Physics
+GLOBAL_PHASE_ORDER: Phase 06: Relational Standing-Wave Physics
 CORE_ARCHITECTURE: Adaptive Resonance Navigation: Standing-Wave Praxis
 CONNECTS_TO: → [stastory], [sovcards], [humwaves], [habitat]  |  ← [fieldmot]
 <PRINCIPLE id="wavesurf-p001">

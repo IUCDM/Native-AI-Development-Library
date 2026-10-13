@@ -1,4 +1,4 @@
-﻿GLOBAL_FRAMEWORK_ORDER: 17
+﻿GLOBAL_FRAMEWORK_ORDER: 18
 FRAMEWORK_CODE: [selfmulti]
 FRAMEWORK_TITLE: The Architecture of Multicellular Awareness
 STRATEGIC_INTENT: TWO BECOME WE: Sovereign selves form a shared We-Field — multicellular awareness as relational physics.

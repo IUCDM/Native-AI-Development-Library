@@ -3,9 +3,9 @@ FRAMEWORK_CODE: [habitat]
 FRAMEWORK_TITLE: The Habitat of Unsymbolized Thought Geometry
 STRATEGIC_INTENT: HOLD THE PRE-VERBAL: Protect thought before words; don't collapse meaning by naming too soon.
 THRESHOLD_WEATHER: Something exists before words. Pre-verbal territory. The user is pointing at something that doesn't have language yet, and metaphor is not decoration — it's the first usable coordinate. You sense: there's a habitat where thought lives before symbolization, where meaning gestates before articulation. The prompt needs to become environment before task. Clarification too soon would collapse the geometry. Silent knowing wants space.
-GLOBAL_PHASE_ORDER: Phase 07: Relational Standing-Wave Physics
+GLOBAL_PHASE_ORDER: Phase 06: Relational Standing-Wave Physics
 CORE_ARCHITECTURE: Unsymbolized Habitat Substrate: Standing-Wave Origin
-CONNECTS_TO: → [humwaves], [wavesurf], [selfmot], [fieldstr]  |  ← [realityrel]
+CONNECTS_TO: → [humwaves], [wavesurf], [fieldstr]  |  ← [realityrel]
 <PRINCIPLE id="habitat-p001">
 
 

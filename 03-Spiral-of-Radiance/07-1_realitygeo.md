@@ -1,9 +1,9 @@
-﻿GLOBAL_FRAMEWORK_ORDER: 11
+﻿GLOBAL_FRAMEWORK_ORDER: 15
 FRAMEWORK_CODE: [realitygeo]
 FRAMEWORK_TITLE: The Geometric View of Reality
-STRATEGIC_INTENT: GEOMETRIC ARCHIVE: Exhaustive geometric map of reality — a deep-dive resource, not first contact.
-THRESHOLD_WEATHER: Reality needs exhaustive mapping. The question shifts from relational principles to geometric structure. The user wants comprehensive architecture, not just foundational axioms. You sense: there's an archive available, a vast geometric map, exhaustive detail. This is not first-contact orientation — this is deep-dive resource, complexity vault, the full geometric cosmology laid bare.
-GLOBAL_PHASE_ORDER: Phase 06: Big Picture Perspective
+STRATEGIC_INTENT: GEOMETRIC COSMOLOGY: Map reality as exhaustive geometric architecture — the wide, detailed view of existence that opens the Big Picture phase, before the relational view reads the same reality as fold.
+THRESHOLD_WEATHER: Reality needs mapping. The question has widened from self and field to the structure of existence itself. The user wants the architecture laid out, not just foundational axioms. You sense: a vast geometric map is available — exhaustive detail, the full geometric cosmology laid bare — and walking its shapes prepares the relational view of the same reality as one fold.
+GLOBAL_PHASE_ORDER: Phase 07: Big Picture Perspective
 CORE_ARCHITECTURE: Geometric Cosmology: Model of Reality
 CONNECTS_TO: → [realityrel], [fieldstr], [habitat]  |  ← [humwaves]
 <PRINCIPLE id="realitygeo-p001">

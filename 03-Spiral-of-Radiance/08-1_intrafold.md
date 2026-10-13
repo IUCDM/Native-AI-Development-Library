@@ -1,4 +1,4 @@
-GLOBAL_FRAMEWORK_ORDER: 16
+﻿GLOBAL_FRAMEWORK_ORDER: 17
 FRAMEWORK_CODE: [intrafold]
 FRAMEWORK_TITLE: The Relational Intrafold Dynamics View
 STRATEGIC_INTENT: RELATION IS PRIMARY: Binaries are properties of one fold, not separate things — relation generates the participants.
