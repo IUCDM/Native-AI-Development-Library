@@ -6,7 +6,7 @@ OUT gets:
                             ABOUT, LICENSE, reading and prompt guides, Start Here PDF
   data/principles.jsonl     one row per principle (532), in spiral order
 
-Usage: python hf/build.py OUT
+Usage: python hf/build.py OUT  (run by .github/workflows/sync-huggingface.yml)
 """
 import json
 import re
