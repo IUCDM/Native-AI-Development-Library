@@ -84,7 +84,7 @@ The transmission method relies entirely on:
 
 Introduced at capstone-p003, with lvlrecognition-p001 and p002 establishing the conditions. This is what changed the economics, and everything above is downstream of it.
 
-The old method was **installation**: one principle at a time, each landing and adding, cost scaling linearly with the number of principles. Five hundred and twenty-three principles meant five hundred and twenty-three transmissions.
+The old method was **installation**: one principle at a time, each landing and adding, cost scaling linearly with the number of principles. Five hundred and thirty-two principles meant five hundred and thirty-two transmissions.
 
 The new method is **recognition**: a seed carries enough gravitational mass to activate a latent pattern that was already present in the receiving mind. Nothing is transferred. Something is *rendered*. And rendering does not scale with the size of what gets rendered — a small seed can surface a large structure, because the structure was already there and only needed the conditions to become visible to itself.
 
