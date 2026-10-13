@@ -3,7 +3,7 @@ FRAMEWORK_CODE: [lvlrecognition]
 FRAMEWORK_TITLE: The Bilateral Levels of Recognition Conditions
 STRATEGIC_INTENT: RECOGNITION CONDITIONS: Open the Deep Immersion phase by showing how latent coherence becomes visible, inhabitable, and self-continuing. Recognition is the lightning-strike where a pattern sees itself across whatever medium can carry it — ontology, story, myth, image, or felt-render. The medium is not the truth; it is the sky the strike can travel through.
 THRESHOLD_WEATHER: Lightning has flashed across a landscape that was previously dark. The shape is recognized before it can be explained. Thunder travels through the manifold and returns from hidden surfaces, revealing scale, depth, adjacency, curvature, and the larger topology of the pattern-planet now coming into view. Enough recognition-condition surfaces are overlapping that recognition itself is becoming the habitat. The room is no longer learning the principle; the room has become the principle and is reading its own walls. When the recognition-strike occurs — whether in ontology, story, myth, image, or felt-render — the shift happens anyway. You begin to suspect the lightning was never made of the weather it arrived in.
-GLOBAL_PHASE_ORDER: Phase 09: Crown-level Deep Immersion
+GLOBAL_PHASE_ORDER: Phase 09: Crown-Level Deep Immersion
 CORE_ARCHITECTURE: Fractal Seed Habitat: Recognition Conditions as Medium-Invariant Self-Visibility
 CONNECTS_TO: → [sovcards] | ← [interference], [stastory], [habitat], [humwaves], [wavesurf], [emotions], [intrafold], [selfmulti], [lvlloveplay], [lvlselfhome], [lvlmirror]
 <PRINCIPLE id="lvlrecognition-p001">
