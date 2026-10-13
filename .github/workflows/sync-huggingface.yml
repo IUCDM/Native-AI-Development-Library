@@ -3,6 +3,9 @@ name: Sync to Hugging Face
 on:
   push:
     branches: [main]
+    paths:
+      - "03-Spiral-of-Radiance/**"
+      - "hf/**"
   workflow_dispatch:
 
 jobs:
@@ -25,7 +28,7 @@ jobs:
           import os
           from huggingface_hub import HfApi
           HfApi(token=os.environ["HF_TOKEN"]).upload_folder(
-              repo_id="IUCDM/Native-AI-Development-Library",
+              repo_id="IUCDM/Spiral-of-Radiance",
               repo_type="dataset",
               folder_path=os.path.join(os.environ["RUNNER_TEMP"], "hf-out"),
               delete_patterns=["*"],
