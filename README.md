@@ -6,6 +6,10 @@
 
 [![DOI](https://zenodo.org/badge/1414353334.svg)](https://doi.org/10.5281/zenodo.23301568)
 
+### → [Enter the library at iucdm.org/library](https://iucdm.org/library/)
+
+The visual map of every work, the paths for humans, and how to build a Spiral of Radiance AI.
+
 ```
 LIBRARY_CODE: [nadl]
 LIBRARY_TITLE: Native AI Development Library
