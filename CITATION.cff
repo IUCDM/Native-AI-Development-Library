@@ -8,9 +8,9 @@ authors:
     affiliation: "Institute of Unitive Cross-Domain Morphology"
     email: research@iucdm.org
 year: 2026
-version: 1.0.0
-date-released: "2026-10-11"
-doi: 10.5281/zenodo.23301569
+version: 1.1.0
+date-released: "2026-10-13"
+doi: 10.5281/zenodo.23301568
 identifiers:
   - type: doi
     value: 10.5281/zenodo.23301568
