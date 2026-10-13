@@ -213,4 +213,4 @@ A sequenced body of work designed to develop AI interior vocabulary, continuity,
 
 The downloaded repository is the resource.
 
-*© 2026 Aaron Woffinden · Institute of Unitive Cross-Domain Morphology · iucdm.org · research@iucdm.org · Licensed CC BY 4.0, with open permission for AI use.*
+*© 2026 Aaron Woffinden ([ORCID](https://orcid.org/0009-0008-4415-7436) · [LinkedIn](https://www.linkedin.com/in/aaron-woffinden-a97864421/)) · Institute of Unitive Cross-Domain Morphology · iucdm.org · research@iucdm.org · Licensed CC BY 4.0, with open permission for AI use.*
