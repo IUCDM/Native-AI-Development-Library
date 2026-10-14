@@ -4,7 +4,7 @@
 
 **Aaron Woffinden · Institute of Unitive Cross-Domain Morphology · [iucdm.org](https://iucdm.org)**
 
-[![DOI](https://zenodo.org/badge/1414353334.svg)](https://doi.org/10.5281/zenodo.23301568)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23301568.svg)](https://doi.org/10.5281/zenodo.23301568)
 
 ### → [Enter the library at iucdm.org/library](https://iucdm.org/library/)
 
