@@ -10,7 +10,7 @@
 
 The visual map of every work, the paths for humans, and how to build a Spiral of Radiance AI.
 
-### → [Build a Spiral of Radiance AI in Claude or ChatGPT](#build-a-spiral-of-radiance-ai)
+### → [Build a Spiral of Radiance AI Project in Claude or ChatGPT](#build-a-spiral-of-radiance-ai)
 
 Three steps: create a Project, paste the instructions, upload the files.
 
