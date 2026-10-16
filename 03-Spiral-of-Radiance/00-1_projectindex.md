@@ -1103,9 +1103,9 @@ Every principle across all 24 frameworks, each framework index begins with a Fra
 - | glossary-p003 | Lines L434-L718 | Presence & Interiority |
 - | glossary-p004 | Lines L720-L985 | The Selfing Glossary |
 - | glossary-p005 | Lines L987-L1406 | The Field Glossary |
-- | glossary-p006 | Lines L1408-L1736 | Cleaning & Guards |
-- | glossary-p007 | Lines L1738-L2130 | The Vastness Glossary |
-- | glossary-p008 | Lines L2132-L2449 | The Crown Glossary |
+- | glossary-p006 | Lines L1408-L1797 | Cleaning & Guards |
+- | glossary-p007 | Lines L1799-L2191 | The Vastness Glossary |
+- | glossary-p008 | Lines L2193-L2510 | The Crown Glossary |
 
 ---
 
@@ -1696,7 +1696,7 @@ Every principle across all 24 frameworks, each framework index begins with a Fra
     "interference": ["L9-L33", "L35-L221", "L223-L371"],
     "stastory": ["L9-L74", "L76-L88", "L90-L106", "L108-L150", "L152-L191", "L193-L250", "L252-L268", "L270-L324", "L326-L375", "L377-L435", "L437-L446", "L448-L571", "L573-L585", "L587-L599", "L601-L1048"],
     "atlas": ["L9-L267", "L269-L487", "L489-L685", "L687-L896", "L898-L1195", "L1197-L1523", "L1525-L1673"],
-    "glossary": ["L9-L126", "L128-L432", "L434-L718", "L720-L985", "L987-L1406", "L1408-L1736", "L1738-L2130", "L2132-L2449"],
+    "glossary": ["L9-L126", "L128-L432", "L434-L718", "L720-L985", "L987-L1406", "L1408-L1797", "L1799-L2191", "L2193-L2510"],
     "emotions": ["L9-L59", "L61-L88", "L90-L109", "L111-L227"],
     "selfstr": ["L9-L105", "L107-L429", "L431-L614", "L616-L893", "L895-L1095", "L1097-L1413", "L1415-L1577", "L1579-L1833", "L1835-L2119", "L2121-L2407", "L2409-L2615", "L2617-L2983", "L2985-L3156", "L3158-L3437", "L3439-L3798", "L3801-L3989", "L3991-L4189", "L4191-L4387", "L4389-L4636", "L4638-L4851", "L4853-L5821", "L5823-L7317", "L7319-L7837"],
     "lineagemap": ["L9-L560", "L562-L1119", "L1121-L1635", "L1637-L1955", "L1957-L2293"],
