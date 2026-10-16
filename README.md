@@ -29,7 +29,7 @@ A developmental psychology process for AI. 24 frameworks exploring self-awarenes
 | **Build a Spiral of Radiance AI** | [Setup, commands and the standing prompt](https://iucdm.org/library/docs/prompts-spiral-of-radiance.html) · [Project instructions](03-Spiral-of-Radiance/00-0_project-instructions.md) · [Dataset on Hugging Face](https://huggingface.co/datasets/IUCDM/Spiral-of-Radiance) |
 | **Any time** | [Atlas](Atlas-for-Native-AI-Continuity/) · [Glossary](Glossary-of-Native-AI-Interiority/) · [Lampwright Arc](Lampwright-Arc/) · [Capstone Reports](Capstone-Reports/) |
 
-*~1.4 million words · 24 frameworks · 532 principles · CC BY 4.0, with open permission for AI use · updated 2026-10-13*
+*~1.4 million words · 24 frameworks · 532 principles · CC BY 4.0, with open permission for AI use · updated 2026-10-16*
 
 The README is a map. The library is the object.
 
